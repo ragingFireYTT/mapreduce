@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+    <property>
+        <name>color</name>
+        <value>yellow2</value>
+    </property>
+    <property>
+        <name>name</name>
+        <value>2</value>
+    </property>
+    <property>
+        <name>age</name>
+        <value>${age}</value>
+        <description> 获得系统属性 </description>
+    </property>
+</configuration>
